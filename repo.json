@@ -3,18 +3,18 @@
     "name": "termux-main",
     "distribution": "stable",
     "component": "main",
-    "url": "https://packages-cf.termux.dev/apt/termux-main"
+    "url": "https://gitlab.com/Falcon-Inc/pkgs/-/tree/main/apt-repository/raw/"
   },
   "root-packages": {
     "name": "termux-root",
     "distribution": "root",
     "component": "stable",
-    "url": "https://packages-cf.termux.dev/apt/termux-root"
+    "url": "https://gitlab.com/Falcon-Inc/pkgs/-/tree/main/apt-repository/raw"
   },
   "x11-packages": {
     "name": "termux-x11",
     "distribution": "x11",
     "component": "main",
-    "url": "https://packages-cf.termux.dev/apt/termux-x11"
+    "url": "https://gitlab.com/Falcon-Inc/pkgs/-/tree/main/apt-repository/raw"
   }
 }
