@@ -1,4 +1,4 @@
-TERMUX_PKG_HOMEPAGE=https://www.7-zip.org
+TERMUX_PKG_HOMEPAGE=https://www.7-zip.or
 TERMUX_PKG_DESCRIPTION="7-Zip file archiver with a high compression ratio"
 TERMUX_PKG_LICENSE="LGPL-2.1, BSD 3-Clause"
 TERMUX_PKG_MAINTAINER="@termux"
